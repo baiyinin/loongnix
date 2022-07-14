@@ -1,0 +1,4 @@
+train: C://code/train_data/traindata/
+val: C://code/train_data/valdata/
+nc: 3
+names:  ['person',"hat","down"]
